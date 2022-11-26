@@ -1,0 +1,16 @@
+.img{
+    max-width: 200px;
+    max-height: 200px;
+}
+#dev{
+    padding-left: 650px;
+}
+body{
+    background-color: rgb(26, 201, 225);
+}
+#ans{
+    color:blueviolet;
+}
+#heading{
+    color:red;
+}
